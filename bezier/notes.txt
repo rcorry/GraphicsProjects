@@ -1,0 +1,11 @@
+Parametric Form:
+    y = y0(1-t)+y1t
+    x = x0(1-t)+x1t
+
+    D1
+    p = P0(1-t) +P1t
+
+    D2
+    P(t) = P0(1-t)^2 + 2P1(1-t)t + P2t^2
+
+

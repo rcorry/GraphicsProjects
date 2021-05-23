@@ -1,0 +1,11 @@
+particle 100 400 0 0 20 1
+particle 200 400 0 0 20 0
+particle 300 400 0 0 20 0
+particle 400 400 0 0 20 0
+particle 500 400 0 0 20 0
+spring 0 1 1 1 1 1 1 1
+spring 1 2 1 1 1 1 1 1
+spring 2 3 1 1 1 1 1 1
+spring 3 4 1 1 1 1 1 1
+
+DeltaT 1
